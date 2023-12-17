@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CCBase</string>
+    <string name="title_activity_main">CCBase</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_user_key">user</string>
+    <string name="pref_pwd_key">pwd</string>
+</resources>

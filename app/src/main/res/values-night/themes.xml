@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Base.Theme.CCBase" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>
